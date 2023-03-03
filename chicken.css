@@ -2,8 +2,13 @@ h1{
       color: darksalmon;
       background-color: rgb(41, 139, 188);
 };
+
 h2{
       color: aqua;
+      background-color: azure
+};
+h3{
+      color: rgb(131, 12, 12)
 };
 button{
       color: dodgerblue;
