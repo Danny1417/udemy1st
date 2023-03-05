@@ -68,4 +68,19 @@ button:hover{
       width: 500px;
       flex-wrap: wrap;
 }
+/* how to give color to the chess board */
 
+.square:nth-of-type(even){
+      background-color: white;
+}
+.square:nth-last-of-type(odd){
+   background-color: black;
+}
+
+
+p::first-line{
+      background-color: blue;
+}
+p::selection{
+      background-color: aqua;
+}
